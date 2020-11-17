@@ -1,0 +1,168 @@
+{
+    "history": [
+        {
+            "query": "hi",
+            "response": "Hello!"
+        },
+        {
+            "query": "hi",
+            "response": "Good to see you!"
+        },
+        {
+            "query": "hi",
+            "response": "Good to see you!"
+        },
+        {
+            "query": "what can u do",
+            "response": "I'm your Bot.. You can ask me any question you have on Dayananda Sagar University. I will try to help you."
+        },
+        {
+            "query": "hi",
+            "response": "Hi there, how can I help?"
+        },
+        {
+            "query": "hi",
+            "response": "Good to see you!"
+        },
+        {
+            "query": "hi",
+            "response": "Good to see you!"
+        },
+        {
+            "query": "hi",
+            "response": "Hello!"
+        },
+        {
+            "query": "ji",
+            "response": "Good to see you!"
+        },
+        {
+            "query": "hi",
+            "response": "Hi there, how can I help?"
+        },
+        {
+            "query": "hi",
+            "response": "Hello!"
+        },
+        {
+            "query": "hello",
+            "response": "Good to see you!"
+        },
+        {
+            "query": "hey",
+            "response": "Hello!"
+        },
+        {
+            "query": "hey",
+            "response": "Good to see you!"
+        },
+        {
+            "query": "okay",
+            "response": "Hi there, how can I help?"
+        },
+        {
+            "query": "courses?",
+            "response": "Computer Science, Computer Technology, Electronics, Mechanical"
+        },
+        {
+            "query": "name?",
+            "response": "I'm Bot... I work to help you"
+        },
+        {
+            "query": "address",
+            "response": "The college is located at Kudlu Gate,Bengaluru https://g.page/dayananda-sagar-university-Kudlu?share"
+        },
+        {
+            "query": "okay",
+            "response": "Good to hear"
+        },
+        {
+            "query": "thank you",
+            "response": "Good to hear"
+        },
+        {
+            "query": "hostel",
+            "response": "Yes,the college has hostel facilities."
+        },
+        {
+            "query": "sxndenfcjks",
+            "response": "I didn't understand.. Can you repeat the question."
+        },
+        {
+            "query": "what are the courses?",
+            "response": "Computer Science, Computer Technology, Electronics, Mechanical"
+        },
+        {
+            "query": "college timings?",
+            "response": "The college timing is 8am-5:30pm"
+        },
+        {
+            "query": "how big is the college?",
+            "response": "The college campus size is 103 acres"
+        },
+        {
+            "query": "courses?",
+            "response": "Computer Science, Computer Technology, Electronics, Mechanical"
+        },
+        {
+            "query": "course list",
+            "response": "Computer Science, Computer Technology, Electronics, Mechanical"
+        },
+        {
+            "query": "branches ?",
+            "response": "Computer Science, Computer Technology, Electronics, Mechanical"
+        },
+        {
+            "query": "what about the fees?",
+            "response": "I didn't understand.. Can you repeat the question."
+        },
+        {
+            "query": "What all courses are offered?",
+            "response": "Computer Science, Computer Technology, Electronics, Mechanical"
+        },
+        {
+            "query": "what branches are available?",
+            "response": "Computer Science, Computer Technology, Electronics, Mechanical"
+        },
+        {
+            "query": "college timings?",
+            "response": "The college timing is 8am-5:30pm"
+        },
+        {
+            "query": "Tell me about your college library",
+            "response": "DSU Library offers many services in support of academic and research work. The college library timings is 9am-6pm"
+        },
+        {
+            "query": "Where is the college located?",
+            "response": "The college is located at Kudlu Gate,Bengaluru https://g.page/dayananda-sagar-university-Kudlu?share"
+        },
+        {
+            "query": "What about fees?",
+            "response": "I didn't understand.. Can you repeat the question."
+        },
+        {
+            "query": "What about admissions?",
+            "response": "Please visit admission section in our college website to know more."
+        },
+        {
+            "query": "How big is the college?",
+            "response": "The college campus size is 103 acres"
+        },
+        {
+            "query": "What about fees?",
+            "response": "I didn't understand.. Can you repeat the question."
+        },
+        {
+            "query": "How big is the college?",
+            "response": "The college campus size is 103 acres"
+        },
+        {
+            "query": "okay",
+            "response": "Good to hear"
+        },
+        {
+            "query": "Bye",
+            "response": "Goodbye!"
+        }
+    ]
+}
