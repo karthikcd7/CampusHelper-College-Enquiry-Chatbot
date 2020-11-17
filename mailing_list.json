@@ -1,0 +1,19 @@
+{
+    "list": [
+        {
+            "name": "abc",
+            "email": "abc",
+            "phno": "51318"
+        },
+        {
+            "name": "karthik",
+            "email": "abc@gmail.com",
+            "phno": "123456"
+        },
+        {
+            "name": "C D Karthik",
+            "email": "karthikdileep2@gmail.com",
+            "phno": "1234567895"
+        }
+    ]
+}
