@@ -1,0 +1,113 @@
+{"intents": [
+        {
+        "tag": "greeting",
+        "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up","ola","hey"],
+        "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?"],
+        "context_set": ""
+        },
+        {
+        "tag": "idk",
+        "patterns":[],
+        "responses":["I didn't understand.. Can you repeat the question."],
+        "context_set": ""
+        },
+        {
+        "tag": "about me",
+        "patterns":["What can you do for me?", "What to ask you", "Who are you?"],
+        "responses":["I'm your Bot.. You can ask me any question you have on Dayananda Sagar University. I will try to help you."],
+        "context_set": ""
+        },
+        {
+        "tag": "bye",
+        "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "Bye"],
+        "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+        "context_set": ""
+        },
+        {
+        "tag": "name",
+        "patterns": ["what is your name", "what should I call you", "whats your name?"],
+        "responses": ["You can call me Bot.", "I'm your Bot!", "I'm Bot... I work to help you"],
+        "context_set": ""
+        },
+
+        {
+        "tag": "address",
+        "patterns" : [" Where is the college situated?", " College Location", "address", "How do i visit the college?"],
+        "responses": ["The college is located at Kudlu Gate,Bengaluru https://g.page/dayananda-sagar-university-Kudlu?share"],
+        "context": ""
+        },
+        {
+        "tag": "hours",
+        "patterns" : [" What is the college timings?", "College Timings?","When is the college open"],
+        "responses": ["The college timing is 8am-5:30pm"],
+        "context": ""
+        },
+        {
+        "tag": "age",
+        "patterns" : [" In which year the college was established?", "College established in which year?", "Whats the age of the college?", "Age of college?"],
+        "responses": ["The college was established in the year 2014. Age of the college is 6 years"],
+        "context": ""
+        },
+        {
+        "tag": "size",
+        "patterns" : [" What is the college campus size?", "College Campus Size?", "How big is the college"],
+        "responses": ["The college campus size is 103 acres"],
+        "context": ""
+        },
+        {
+        "tag": "faculty",
+        "patterns" : [" What is the strength of faculties in college?", "College Faculties?","How many faculties do you have?"],
+        "responses": ["The total strength of the faculties is 200+"],
+        "context": ""
+        },
+        {
+        "tag": "students",
+        "patterns" : [" What is the strength of students in college?", "College Student strength?","How many students are there?", "enrollments?"],
+        "responses": ["The total strength of students is 3000+"],
+        "context": ""
+        },
+        {
+        "tag": "hostel",
+        "patterns" : [" Does the college have hostel facilities?", "Do you have hostel?", "Hostel?"],
+        "responses": ["Yes,the college has hostel facilities."],
+        "context": ""
+        },
+        {
+        "tag": "library",
+        "patterns" : [" What is the college library timings?", "College Library Timimgs?","library?"],
+        "responses": ["DSU Library offers many services in support of academic and research work. The college library timings is 9am-6pm"],
+        "context": ""
+        },
+        {
+        "tag": "admission",
+        "patterns" : ["What about admissions?", "College admissions?","Admissions?"],
+        "responses": ["Please visit admission section in our college website to know more."],
+        "context": ""
+        },
+        {
+        "tag": "branch",
+        "patterns" : ["What branches does the college offer?", "List all the courses the college offers?","What all branches are available?", "Courses?", "How many courses are there?"],
+        "responses": ["Computer Science, Computer Technology, Electronics, Mechanical"],
+        "context": ""
+        },
+        {
+        "tag": "Entrepreneurship",
+        "patterns" : ["Entrepreneurships?","What about Entrepreneurships?"],
+        "responses": ["DERBI Foundation is established at Dayananda Sagar University with the support of Department of Science & Technology, Government of India, to nurture budding entrepreneurs and incubate technology ventures"],
+        "context": ""
+        },
+        {
+        "tag": "Placements",
+        "patterns" : ["Placements?","What about Placements?","Tell me about your placements?", "How are your placements?","What are your achievements?", "Achievements?"],
+        "responses": ["DSU has seen more than 30 companies from varied business verticals including IT, BFSI, Realty, Pharmaceuticals and Education, visit our campus as a part of the Placement Offers","More than 80% of the eligible students were hired by Information Technology giants including Accenture, Infosys, Cognizant, TCS and KPMG"],
+        "context": ""
+        },
+        {
+        "tag": "Conversations",
+        "patterns": ["okay", "mmm","hmm","thank you","okay fine","fine"],
+        "responses": ["Good to hear"],
+        "context": ""
+        }
+
+   ]
+}
